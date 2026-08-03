@@ -16,6 +16,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
