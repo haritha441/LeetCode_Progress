@@ -19,6 +19,7 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/haritha441/LeetCode_Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/haritha441/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
@@ -32,9 +33,11 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/haritha441/LeetCode_Progress/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/haritha441/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/haritha441/LeetCode_Progress/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
