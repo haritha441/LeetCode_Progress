@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/haritha441/LeetCode_Progress/tree/master/0050-powx-n) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/haritha441/LeetCode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -40,4 +41,8 @@
 | ------- |
 | [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/haritha441/LeetCode_Progress/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/haritha441/LeetCode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
