@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/haritha441/LeetCode_Progress/tree/master/0050-powx-n) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/haritha441/LeetCode_Progress/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/haritha441/LeetCode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
