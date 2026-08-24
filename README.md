@@ -18,6 +18,7 @@
 | [0217-contains-duplicate](https://github.com/haritha441/LeetCode_Progress/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haritha441/LeetCode_Progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1920-build-array-from-permutation](https://github.com/haritha441/LeetCode_Progress/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/haritha441/LeetCode_Progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/haritha441/LeetCode_Progress/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
