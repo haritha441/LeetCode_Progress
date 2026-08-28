@@ -20,6 +20,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/haritha441/LeetCode_Progress/tree/master/0349-intersection-of-two-arrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/haritha441/LeetCode_Progress/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/haritha441/LeetCode_Progress/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/haritha441/LeetCode_Progress/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/haritha441/LeetCode_Progress/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/haritha441/LeetCode_Progress/tree/master/1920-build-array-from-permutation) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/haritha441/LeetCode_Progress/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
