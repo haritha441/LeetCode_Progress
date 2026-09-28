@@ -57,6 +57,7 @@
 | [0205-isomorphic-strings](https://github.com/haritha441/LeetCode_Progress/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/haritha441/LeetCode_Progress/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/haritha441/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haritha441/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -82,4 +83,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/haritha441/LeetCode_Progress/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haritha441/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/haritha441/LeetCode_Progress/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
